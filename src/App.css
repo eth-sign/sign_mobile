@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.button {
+  background-color: var(--bs-gray-300) !important;
+  border-color: var(--bs-gray-300)!important;
+  border-radius: 5pt !important;
+  color: #282c34 !important;
+  font-weight: 400 !important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
